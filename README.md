@@ -1,7 +1,7 @@
 ## MaQuest
 gamedeveloper :[jouw naam]
 
-### Korte omschrijving van de game
+### Korte omschrijving van de game..
 ...
 
 ---
